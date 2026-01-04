@@ -1,5 +1,5 @@
 # Data-Science-and-Engineering-projects-AI-ML-included-
-This repository showcases a collection of Data Science, Machine Learning, and Data Engineering projects that demonstrate practical applications of data-driven problem solving. Each project integrates data collection, cleaning, analysis, modeling, and deployment, using modern tools and cloud-based solutions. 
+This repository contains a collection of Data Science, Machine Learning, and Data Engineering projects that I have practiced and implemented. These projects are inspired by real-world examples and tutorials, allowing me to explore data collection, cleaning, analysis, modeling, and deployment 
 
 
 ## Data Science & Engineering
